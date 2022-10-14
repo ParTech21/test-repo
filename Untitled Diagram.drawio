@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T20:11:08.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="29alNK8JBU9NSnZkciGx" version="20.4.1" type="github"><diagram id="N44yY3sSkGqrB31nCLvw" name="Page-1">5VrbcuI4EP0aqmYeoHzh+hguO7OpTJIKqU2yL1vCFkaLbLGyCDBfv5IsG1syicOYQO0mlcJqSy2p+6j7qEPDHYXbbxSsFj+ID3HDsfxtwx03HMd23Db/EJJdIuk5diIIKPJVp71gin5CJbSUdI18GBc6MkIwQ6ui0CNRBD1WkAFKyabYbU5wcdYVCKAhmHoAm9In5LNFIu13rL38O0TBIp3ZttSbEKSdlSBeAJ9sciJ30nBHlBCWPIXbEcTCeKldknG/HXibLYzCiFUZ0J0/f/udeaPb6+GfvcUf4+j156iptLwCvFYbnroNp4u5xuGM8qdAPJmSu4eRKbwH9J81ZGq7bJfacLNADE5XwBPtDccJ77tgIeYtmz+CeJV4bo620JfTyTVByuD24GbtzIQce5CEkNEd76IGOH1ldQU7e6Dam5wTlWiR818qAwo2QaZ5b1n+oIz7AUM7hqFHayp341hjwAD/uAFLWGLp2+b9w+SH+eL7ZDy9BFN3rAsztWuYWhh4RpG3jE0zjocPvLNtt5xLMKaOW7d/ZmO2DWMaZoKRfyUiLW95GMQx8op2omQd+cJAY4u3uCHo7lm9ko0X8abVSZvjbb7neJe2tog9555zo3hrP0g00jHJUqFvhHjNHXw7ZE09+P75ZYAGkL0XUE335tzXKXFfKqMQA4Zei8st86ma4Z4gGUEUetxOET0GLJJtqlH5XKEpamtn2nE1RYkdDEUSYtm2j0ddp3bUpejJEPOSQvAgejKk5sD5UsBmOVJrRF3KeN5DnXtW1DlazOrVhDq3+7mo6xmoE83ru+G0CiWyY7GVxw3iHuVLFuaHcGn2cyJf5nyEd1XUXpMZz1rWCK9jBqlxDHiqYUXgx4ySJRwRTKjs4nblD38zRxjn5POO+BWJDKMg4jIM50KXSGCIM+ArJQ6R74vphmX5sHjM5iRiuRmSn3oyY4aqNCSV0Ay7DOWDU6XGvgGXBxhDQL0Flz4RWuJ7sQce26y/pVP1t656y+ENKfDkkbwATqIfy7Zp+MFn2n3wH+J3Jbb8VHqXXrNPwO+0rJnRvff4XSFDZ0n51PyuaqYdnDXT6letYzOtThRt53MzrW1eh+uoO1jNJpeBUBxkpcAaQyxv119EZH0cfv3lKKBlUb8D+367LO/2nZkr824NcUNPfva544Z5ybYTriS8wP+m61ksXULme7ZjcTJTxcsFipQMstYxlMLJzeNVFR1iEQ8QJIokAuaUhGJlJUATnSePN4e0SGZ3QwIe+ZLdXfODIVgZkAu9CgIKA36wiRR+CdeYoSana6v4a6WllsD2iXJUCt2xxDDDoNo4tWWghgFcZQHpBqCMgDMMxWgPeAtpchQJq3GsckIz0qbIdBlnMZFzcM3281r87EjdwoZcu7f8a6UCU7PKOrPdRrN4VdrjlohjBemc0BBEkomjcEXJKwxlrU0f/39l050DV7b3yHSWOOqPKKerNFmtttXLc5Gm1bKEdd4mJKJ1Dyni+4P0TZbydh2hTpZSuQx11oqAXoY6lqbYehnqs2nK6epQeY7b6r1dxjy2ZHoGepwA9Fy4c3S8tI8Eno5gW7/Mnhp43bqBVxULl+K67rGl66zucEjRqV1nVhHLGKetaj2+5KYXUJjQzXb2yoRZXquND3wsjJ67MlE155+1NKHBxz72+NptTVHF/zxxHIBdrpu8V8SH12vbxXn6hS9P8IdEYb2hwaxcDlQYuKMoQJG4ranb6gcvJhGJoHYnUaL0OuLBSNLYX7mQ1BBnMn8eLoB2S1Cqo6BCmOHN/ZdrEhfuv6LkTv4F</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-14T20:28:07.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JrNpWHjP8LS1qKTq9ows" version="20.4.1" type="github">
+  <diagram id="N44yY3sSkGqrB31nCLvw" name="Page-1">
+    <mxGraphModel dx="1234" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-1" value="S3&lt;br&gt;&lt;br&gt;ORC&lt;br&gt;Parquet" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="450" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-2" value="Current Data Lake&lt;br&gt;ON-PREM&lt;br&gt;HEDS" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="670" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-3" value="Databricks&lt;br&gt;DBR 11.2" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="450" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="6fXGItcCNJBZ7hVDnvzC-2" target="6fXGItcCNJBZ7hVDnvzC-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="340" as="sourcePoint" />
+            <mxPoint x="570" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6fXGItcCNJBZ7hVDnvzC-1" target="6fXGItcCNJBZ7hVDnvzC-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="430" as="sourcePoint" />
+            <mxPoint x="570" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-7" value="2 JOBS&lt;br&gt;&lt;br&gt;1st Twice a week&lt;br&gt;2nd Daily&lt;br&gt;&lt;br&gt;Jobs Cluster" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="540" y="350" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-8" value="Research Work&lt;br&gt;70% jobs&lt;br&gt;30% interactive" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="445" y="90" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="6fXGItcCNJBZ7hVDnvzC-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-12" value="S3&lt;br&gt;&lt;br&gt;ORC&lt;br&gt;Parquet --&amp;gt; Delta (5 TB)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="240" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-13" value="1 JOB - Subset of Daily Job&lt;br&gt;&lt;br&gt;2nd Daily Job used DELTA&lt;br&gt;&lt;br&gt;- Read Data from S3&lt;br&gt;- ETL&lt;br&gt;- Rest Logic - Joins and Aggregations (multi-steps)&lt;br&gt;&lt;br&gt;---&amp;gt; Write As Detla&lt;br&gt;---&amp;gt; Read as Detal&lt;br&gt;&lt;br&gt;Aggregate tables cached in Spark, Read as &lt;b&gt;Parquet&lt;/b&gt; files - check_point -&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;No performance improvement&amp;nbsp;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="430" width="150" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.407;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6fXGItcCNJBZ7hVDnvzC-12" target="6fXGItcCNJBZ7hVDnvzC-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="330" as="sourcePoint" />
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6fXGItcCNJBZ7hVDnvzC-1" target="6fXGItcCNJBZ7hVDnvzC-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="300" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="740" as="sourcePoint" />
+            <mxPoint x="460" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-17" value="S3&lt;br&gt;10% data" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="420" y="640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#B85450;" parent="1" source="6fXGItcCNJBZ7hVDnvzC-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fXGItcCNJBZ7hVDnvzC-19" value="90% Original Data used&lt;br&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="265" y="80" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ9SoCGoKzRA7gGNsknk-1" value="This Job use Data Converted to Delta From Parquet and ORC&lt;br&gt;&lt;br&gt;This Job/Pipeline needs to&amp;nbsp;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ9SoCGoKzRA7gGNsknk-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#3333FF;" edge="1" parent="1" source="qJ9SoCGoKzRA7gGNsknk-1" target="6fXGItcCNJBZ7hVDnvzC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="340" as="sourcePoint" />
+            <mxPoint x="120" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="340" />
+              <mxPoint x="70" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJ9SoCGoKzRA7gGNsknk-4" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="qJ9SoCGoKzRA7gGNsknk-1" target="6fXGItcCNJBZ7hVDnvzC-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="530" as="sourcePoint" />
+            <mxPoint x="140" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="610" />
+              <mxPoint x="90" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJ9SoCGoKzRA7gGNsknk-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.02;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6fXGItcCNJBZ7hVDnvzC-13" target="6fXGItcCNJBZ7hVDnvzC-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="570" as="sourcePoint" />
+            <mxPoint x="410" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qJ9SoCGoKzRA7gGNsknk-6" value="Application Use this data" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qJ9SoCGoKzRA7gGNsknk-8" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#B85450;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6fXGItcCNJBZ7hVDnvzC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
