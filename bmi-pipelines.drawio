@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T16:15:34.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="A3M_2uTuFzFXOTL-oSAd" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T16:17:12.582Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="35vRjhgDXFbuJ6n-2_0Q" version="24.1.0" type="github">
   <diagram name="Page-1" id="YT12CVoYzvY_y6P31i-V">
-    <mxGraphModel dx="1242" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-5" value="AZURE GEN2 Blob Storage" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
-          <mxGeometry x="590" y="340" width="210" height="130" as="geometry" />
+          <mxGeometry x="595" y="332" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tdTbT6X5AnM02j_xZDbB-2" target="tdTbT6X5AnM02j_xZDbB-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -38,25 +38,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-9" value="Azure Data Factory&lt;div&gt;NOTEBOOKS&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
-          <mxGeometry x="246" y="420" width="108" height="108" as="geometry" />
-        </mxCell>
-        <mxCell id="tdTbT6X5AnM02j_xZDbB-10" value="&lt;span style=&quot;color: rgb(22, 22, 22); font-family: &amp;quot;Segoe UI&amp;quot;, SegoeUI, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(223, 246, 221);&quot;&gt;all-in-one analytics solution&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="217" y="580" width="180" height="30" as="geometry" />
+          <mxGeometry x="121.01" y="480" width="88" height="88" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-13" value="&lt;div&gt;staging tables&lt;br&gt;&lt;/div&gt;sql-based transformations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360.23" y="450" width="130" height="80" as="geometry" />
+          <mxGeometry x="360.23" y="430" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-14" value="&lt;div&gt;FACT Tables&lt;/div&gt;Staging Table" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_table;" vertex="1" parent="1">
-          <mxGeometry x="397" y="530" width="78" height="59" as="geometry" />
+          <mxGeometry x="375.47" y="521" width="78" height="59" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-15" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.star;fillColor=#0080f0;strokeColor=none;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="710" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.databricks.com/wp-content/uploads/2022/04/star-schema-erd.png;" vertex="1" parent="1">
-          <mxGeometry x="20" y="670" width="449.93" height="339" as="geometry" />
+          <mxGeometry x="80.07" y="692" width="449.93" height="339" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-17" value="&lt;span style=&quot;color: rgb(27, 49, 57); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: medium; text-align: start;&quot;&gt;A&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border: 0px solid; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: bolder; color: rgb(27, 49, 57); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: medium; text-align: start;&quot;&gt;star schema&lt;/span&gt;&lt;span style=&quot;color: rgb(27, 49, 57); font-family: &amp;quot;DM Sans&amp;quot;, sans-serif; font-size: medium; text-align: start;&quot;&gt;&amp;nbsp;is a multi-dimensional data model&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="650" y="540" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="530" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tdTbT6X5AnM02j_xZDbB-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdTbT6X5AnM02j_xZDbB-14" target="tdTbT6X5AnM02j_xZDbB-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -83,6 +80,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="980" as="sourcePoint" />
             <mxPoint x="680" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdTbT6X5AnM02j_xZDbB-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="tdTbT6X5AnM02j_xZDbB-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="551" as="sourcePoint" />
+            <mxPoint x="330" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
